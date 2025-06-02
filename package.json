@@ -17,7 +17,8 @@
     "cors": "^2.8.5",
     "dotenv": "^16.3.1",
     "socket.io": "^4.7.2",
-    "twilio": "^4.19.0"
+    "twilio": "^4.19.0",
+    "ngrok": "^5.0.0-beta.2"
   },
   "devDependencies": {
     "@types/node": "^22.14.0",
