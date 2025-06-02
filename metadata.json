@@ -1,0 +1,5 @@
+
+{
+  "name": "Call Flow Orchestrator",
+  "description": "A web application to manage and initiate automated call scripts using configurable voice profiles and backend services. This app orchestrates calls by interacting with a backend that uses ElevenLabs for TTS and Twilio for voice calls."
+}
